@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="silly-cat-game.vcxproj" />
+  <Project Path="silly-cat-game.vcxproj" Id="174673f7-a5b8-482b-8174-e38b7877425b" />
 </Solution>
